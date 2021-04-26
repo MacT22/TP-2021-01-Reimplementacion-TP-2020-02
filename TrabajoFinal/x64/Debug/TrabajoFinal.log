@@ -1,0 +1,1208 @@
+﻿  AEstrella.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+  CAliado.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+  CAnimacion.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(28): message : Vea la referencia a la creación de una instancia de clase plantilla "CAnimacion<B>" que se está compilando
+  CArregloAliados.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+  CArregloAsesinos.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(11,10): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(59): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloAsesinos<B>" que se está compilando
+  CArregloCorruptos.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2947: se esperaba '>' para terminar lista de argumentos de plantilla pero se encontró '<'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(71): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloCorruptos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,7): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,19): error C2143: error de sintaxis: falta ';' delante de '>>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2238: símbolos (token) inesperados delante de ';'
+  CAsesino.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+  CBenji.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,17): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,39): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,40): error C2039: "getX": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,40): error C2039: "getY": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+  CCorrupto.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+  CEntidad.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+  CJuego.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2947: se esperaba '>' para terminar lista de argumentos de plantilla pero se encontró '<'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(71): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloCorruptos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,7): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,19): error C2143: error de sintaxis: falta ';' delante de '>>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2238: símbolos (token) inesperados delante de ';'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(11,10): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(59): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloAsesinos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,17): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,39): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,40): error C2039: "getX": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,40): error C2039: "getY": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(15,8): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(82): message : Vea la referencia a la creación de una instancia de clase plantilla "CPortal<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(28): message : Vea la referencia a la creación de una instancia de clase plantilla "CAnimacion<B>" que se está compilando
+  CPortal.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(11,10): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(59): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloAsesinos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2947: se esperaba '>' para terminar lista de argumentos de plantilla pero se encontró '<'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(71): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloCorruptos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,7): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,19): error C2143: error de sintaxis: falta ';' delante de '>>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2238: símbolos (token) inesperados delante de ';'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(15,8): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(82): message : Vea la referencia a la creación de una instancia de clase plantilla "CPortal<B>" que se está compilando
+  CRey.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+  MyForm.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2947: se esperaba '>' para terminar lista de argumentos de plantilla pero se encontró '<'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(71): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloCorruptos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,7): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,19): error C2143: error de sintaxis: falta ';' delante de '>>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2238: símbolos (token) inesperados delante de ';'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(11,10): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(59): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloAsesinos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,17): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,39): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,40): error C2039: "getX": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,40): error C2039: "getY": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(15,8): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(82): message : Vea la referencia a la creación de una instancia de clase plantilla "CPortal<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(28): message : Vea la referencia a la creación de una instancia de clase plantilla "CAnimacion<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(26,1): error C2662: 'CJuego<B>::CJuego(System::Drawing::Rectangle,short,short,short,short)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(26,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(26,30): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(42,2): message : vea la declaración de 'CJuego<B>::CJuego'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(76,1): error C2662: 'bool CJuego<B>::jugar(System::Drawing::Graphics ^,short,short,bool *)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(76,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(76,11): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(61,7): message : vea la declaración de 'CJuego<B>::jugar'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(84,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(84,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(84,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(85,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(85,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(85,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(86,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(86,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(86,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(87,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(87,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(87,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(91,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(91,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(91,7): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+  TrabajoFinal.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): warning C4490: 'override': uso incorrecto del especificador de invalidación; 'CEntidad::dibujar' no coincide con un método de clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(23,10): message : 'new' U 'override' solamente se permiten cuando existe el correspondiente método de base de una clase ref
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(15,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(17,11): error C2614: 'CEntidad': inicialización de miembro no válida: 'CImagen' no es una base o miembro
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(25,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(26,18): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(27,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(28,18): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(29,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(30,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(34,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(35,15): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,13): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(39,24): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,76): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,91): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,108): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,133): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(40,152): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,90): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(44,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,100): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'System::Drawing::Rectangle'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(45,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,28): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(54,50): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(55,40): error C2065: 'dx': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(56,24): error C2039: "dx": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,28): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(58,50): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,23): error C2039: "area_dibujo": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(59,40): error C2065: 'dy': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(60,24): error C2039: "dy": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(64,39): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(65,38): error C2039: "imagen": no es un miembro de "CEntidad"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CEntidad.hpp(5): message : vea la declaración de 'CEntidad'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(14,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(15,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(16,49): error C2039: "dx": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,13): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(18,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(19,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,18): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(20,49): error C2039: "dy": no es un miembro de "CAliado"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAliado.hpp(5): message : vea la declaración de 'CAliado'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2947: se esperaba '>' para terminar lista de argumentos de plantilla pero se encontró '<'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(71): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloCorruptos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,7): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,19): error C2143: error de sintaxis: falta ';' delante de '>>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloCorruptos.hpp(13,1): error C2238: símbolos (token) inesperados delante de ';'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(11,10): error C2955: 'CCorrupto': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CCorrupto.hpp(7): message : vea la declaración de 'CCorrupto'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CArregloAsesinos.hpp(59): message : Vea la referencia a la creación de una instancia de clase plantilla "CArregloAsesinos<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,31): error C2065: 'imagen': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(18,39): error C2065: 'area_dibujo': identificador no declarado
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,17): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(23,39): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): error C2662: 'short CRey<B>::get_dx(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(24,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(15,11): message : vea la declaración de 'CRey<B>::get_dx'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): error C2662: 'short CRey<B>::get_dy(void)': no se puede convertir el puntero 'this' de 'CRey' a 'CRey<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,1): message : Razón: no se puede realizar la conversión de 'CRey' a 'CRey<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(25,26): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(16,11): message : vea la declaración de 'CRey<B>::get_dy'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(31,40): error C2039: "getX": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,19): error C2039: "area_dibujo": no es un miembro de "CBenji"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(5): message : vea la declaración de 'CBenji'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CBenji.hpp(32,40): error C2039: "getY": no es un miembro de "CRey"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CRey.hpp(5): message : vea la declaración de 'CRey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(15,8): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CPortal.hpp(82): message : Vea la referencia a la creación de una instancia de clase plantilla "CPortal<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(7,1): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CAnimacion.hpp(28): message : Vea la referencia a la creación de una instancia de clase plantilla "CAnimacion<B>" que se está compilando
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(26,1): error C2662: 'CJuego<B>::CJuego(System::Drawing::Rectangle,short,short,short,short)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(26,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(26,30): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(42,2): message : vea la declaración de 'CJuego<B>::CJuego'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(76,1): error C2662: 'bool CJuego<B>::jugar(System::Drawing::Graphics ^,short,short,bool *)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(76,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(76,11): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(61,7): message : vea la declaración de 'CJuego<B>::jugar'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(84,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(84,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(84,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(85,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(85,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(85,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(86,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(86,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(86,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(87,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(87,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(87,21): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(91,1): error C2662: 'void CJuego<B>::mover_rey(short,short,bool)': no se puede convertir el puntero 'this' de 'CJuego' a 'CJuego<B> %'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(91,1): message : Razón: no se puede realizar la conversión de 'CJuego' a 'CJuego<B>'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\MyForm.h(91,7): message : La conversión requiere un segundo operador de conversión definido por el usuario o constructor
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CJuego.hpp(78,7): message : vea la declaración de 'CJuego<B>::mover_rey'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\TrabajoFinal.cpp(11,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Vida.cpp
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,10): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(30,19): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,36): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(35,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(56,47): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(79,25): error C2039: "dibujar": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Laberinto.hpp(84,29): error C2039: "hay_colision": no es un miembro de "System::Object"
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,7): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(9,16): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,22): error C2955: 'CImagen': el uso de clase plantilla requiere una lista de argumentos de plantilla
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\CImagen.hpp(8): message : vea la declaración de 'CImagen'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(13,1): error C2955: 'System::Collections::Generic::List': el uso de clase genérico requiere una lista de argumentos de genérico
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(17,36): error C2663: 'CImagen<B>::CImagen': 2 sobrecargas no tienen ninguna conversión válida para el puntero 'this'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(18,9): error C2670: 'System::Collections::Generic::List::Add': la plantilla de función no puede convertir el parámetro 1 desde el tipo 'CImagen ^'
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\Vida.hpp(32,14): error C2039: "dibujar": no es un miembro de "System::Object"
+  Generando código...

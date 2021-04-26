@@ -1,0 +1,20 @@
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.vcxprojAssemblyReference.cache
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.ending.resources
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.menu.resources
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.MyForm.resources
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.exe
+D:\Leonardo\UPC\Ciclo 2020-02\Programacion 2\Trabajo Final\TF-2020-02\TrabajoFinal\x64\Debug\TrabajoFinal.pdb
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.vcxprojAssemblyReference.cache
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.ending.resources
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.menu.resources
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.MyForm.resources
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.exe
+F:\Visual\TrabajoFinal\x64\Debug\TrabajoFinal.pdb
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\x64\Debug\TrabajoFinal.vcxprojAssemblyReference.cache
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\x64\Debug\TrabajoFinal.ending.resources
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\x64\Debug\TrabajoFinal.menu.resources
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\x64\Debug\TrabajoFinal.MyForm.resources
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\x64\Debug\TrabajoFinal.vcxproj.GenerateResource.cache
+F:\Visual\Ciclos Anteriores\Ciclo 2020-2 para abajo\TrabajoFinal\x64\Debug\TrabajoFinal.exe
